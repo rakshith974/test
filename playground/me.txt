@@ -1,6 +1,0 @@
-{{#user}}
-Name: Rakshith P D
-Skills: HTML, CSS, JS, Python Programming,SQL,C++ Programming
-Email: rakshithpdrak@gmail.com
-{{/user}}
-
